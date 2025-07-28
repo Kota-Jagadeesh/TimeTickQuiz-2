@@ -81,8 +81,11 @@ Type this to start your game:
 ``` bash
 python3 main.py
 ```
+---
+Need resources? Check out the [RESOURCES.md](https://github.com/Kota-Jagadeesh/TimeTickQuiz-2/blob/main/RESOURCES.md) file for more!
+---
 Let’s play, Reader! The book is closing! 📚  
-```Can u win the golden star?```
+- Can u win the golden star?
 
 ``` bash
 Happy coding! ✨
